@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InControl Console Test application", "InControl Console Test application\InControl Console Test application.csproj", "{B565AA03-3ED2-4BB8-8364-74C01FF385E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InControlCommunicator", "InControlCommunicator\InControlCommunicator.csproj", "{86B18372-46C6-450C-90D1-05F06EECC236}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{B565AA03-3ED2-4BB8-8364-74C01FF385E5}.Debug|x86.Build.0 = Debug|x86
 		{B565AA03-3ED2-4BB8-8364-74C01FF385E5}.Release|x86.ActiveCfg = Release|x86
 		{B565AA03-3ED2-4BB8-8364-74C01FF385E5}.Release|x86.Build.0 = Release|x86
+		{86B18372-46C6-450C-90D1-05F06EECC236}.Debug|x86.ActiveCfg = Debug|x86
+		{86B18372-46C6-450C-90D1-05F06EECC236}.Debug|x86.Build.0 = Debug|x86
+		{86B18372-46C6-450C-90D1-05F06EECC236}.Release|x86.ActiveCfg = Release|x86
+		{86B18372-46C6-450C-90D1-05F06EECC236}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
